@@ -1,0 +1,8 @@
+
+<resources>
+    <string-array name="advice_menu">
+        <item>진로교육도서</item>
+        <item>진로교육영상물</item>
+        <item>진로체험합습기관 및 프로그램</item>
+    </string-array>
+</resources>
